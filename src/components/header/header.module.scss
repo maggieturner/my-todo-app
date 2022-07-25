@@ -1,0 +1,13 @@
+.header{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    color: #94bc6c;
+    input{
+        margin:2px 40px 2px 200px;
+    }
+}
+.headerItems{
+    display: flex;
+    margin: auto;
+    margin-right:0;
+}
